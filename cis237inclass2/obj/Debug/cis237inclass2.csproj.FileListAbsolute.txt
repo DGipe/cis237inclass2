@@ -1,1 +1,6 @@
 O:\cis237\cis237inclass2\cis237inclass2\bin\Debug\cis237inclass2.exe.config
+O:\cis237\cis237inclass2\cis237inclass2\bin\Debug\cis237inclass2.exe
+O:\cis237\cis237inclass2\cis237inclass2\bin\Debug\cis237inclass2.pdb
+O:\cis237\cis237inclass2\cis237inclass2\obj\Debug\cis237inclass2.csprojResolveAssemblyReference.cache
+O:\cis237\cis237inclass2\cis237inclass2\obj\Debug\cis237inclass2.exe
+O:\cis237\cis237inclass2\cis237inclass2\obj\Debug\cis237inclass2.pdb
