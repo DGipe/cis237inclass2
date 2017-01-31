@@ -10,14 +10,26 @@ namespace cis237inclass2
     {
         static void Main(string[] args)
         {
-            Factorial factorial = new Factorial();
 
-            Console.WriteLine("solve 5!");
-            Console.WriteLine("The ansser is: ");
-            Console.WriteLine(factorial.CalculateFactorial(31));
-            Console.WriteLine();
-            Console.WriteLine();
+            Console.WriteLine("Enter 1 for factorial or 2 for Tower of Hanoi");
+            string userInput = Console.ReadLine();
 
+            if (userInput == "1")
+
+            {
+
+
+                Factorial factorial = new Factorial();
+
+                Console.WriteLine("solve 5!");
+                Console.WriteLine("The ansser is: ");
+                Console.WriteLine(factorial.CalculateFactorial(5));
+            }
+            else
+            {
+                //Do tower of Hanoi
+                TowerOfHanoi towerOfHanoi = new TowerOfHanoi();
+            }
         }
     }
 }
